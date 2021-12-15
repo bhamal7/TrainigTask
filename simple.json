@@ -1,0 +1,22 @@
+{
+"employdetails": [
+        {
+            "name": "Ram Hari",
+            "email":"hari@gmail.com",
+            "age": 31
+
+        },
+        {
+            "name": "Shyam ram",
+            "email":"ram@gmail.com",
+            "age": 22
+
+        },
+        {
+            "name": "nikesh sherstha",
+            "email":"nikesh@gmail.com",
+            "age": 25
+
+        }
+    ]
+}
